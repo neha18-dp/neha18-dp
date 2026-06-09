@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Neha Patil 👋
 
-<!--
-**neha18-dp/neha18-dp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering Graduate with a strong interest in Cloud Computing and DevOps.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌩️ Aspiring Cloud & DevOps Engineer
+* 🐧 Learning Linux and Cloud Infrastructure
+* 🐍 Building projects using Python
+* ☁️ Exploring AWS services and cloud technologies
+* 🔧 Practicing Git and GitHub workflows
+
+## Technical Skills
+
+* AWS
+* Linux
+* Python
+* Git & GitHub
+* Computer Networking
+* Cloud Computing
+
+## Projects
+
+### AI-Based Rice Crop Disease Detection and Advisory System
+
+* Rice disease classification using MobileNetV2 CNN
+* Severity prediction and treatment recommendations
+* Multilingual chatbot support
+* Government scheme recommendation module
+
+### Smart Yoga Management System
+
+* Cloud-enabled yoga session and attendance management platform
+* Firebase integration and real-time synchronization
+
+### Cloud Infrastructure Monitoring System *(In Progress)*
+
+* Linux server monitoring
+* Service health checks
+* Automated logging and alerting
+* AWS deployment (planned)
+
+## Currently Learning
+
+* Linux Administration
+* AWS Cloud Services
+* DevOps Fundamentals
+
+## Connect With Me
+
+* LinkedIn: linkedin.com/in/nehadpatil
+* Email: patilneha215@email.com
