@@ -21,6 +21,15 @@ Computer Science Engineering Graduate with a strong interest in Cloud Computing 
 
 ## Projects
 
+### CrisisIQ – Emergency Preparedness & Response Simulator
+AWS PartyRock Hackathon Project (Top 20 Team)
+
+- Built using AWS PartyRock and Foundation Models
+- Generated crisis scenarios and severity assessments
+- Provided response recommendations and role-based guidance
+- Collaborated in a team of 4 members
+- Ranked among the Top 20 teams out of 50+ participating teams
+
 ### AI-Based Rice Crop Disease Detection and Advisory System
 
 * Rice disease classification using MobileNetV2 CNN
