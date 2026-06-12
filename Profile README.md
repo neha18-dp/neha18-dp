@@ -22,7 +22,7 @@ I'm a CSE graduate building hands-on skills in Cloud and DevOps — because I le
 | Category | Skills |
 |----------|--------|
 | **Cloud** | AWS (EC2, S3, IAM, VPC), Microsoft Azure Fundamentals, Amazon Bedrock |
-| **OS & Scripting** | Linux (Ubuntu), Bash / Shell Scripting, YAML |
+| **OS & Scripting** | Linux (Ubuntu), Bash / Shell Scripting |
 | **Programming** | Python, SQL |
 | **Containers** | Docker (Fundamentals) |
 | **Version Control** | Git, GitHub |
@@ -46,7 +46,7 @@ An AI-powered crisis training simulator built on AWS PartyRock with a **14-widge
 ---
 
 ### 🌾 [AI-Based Rice Crop Disease Detection System](./rice-crop-detection)
-**Academic Project · Python · CNN · Machine Learning**
+**Academic Major Project · Python · CNN · Machine Learning**
 
 MobileNetV2-based CNN model classifying **6 rice diseases + 1 healthy class** (7-class). Generates automated diagnostic reports with severity scoring, treatment guidelines, government scheme recommendations, and a multilingual chatbot.
 
@@ -82,13 +82,6 @@ Building a Linux server monitoring system with automated health checks, log aggr
 
 ---
 
-## 📊 GitHub Stats
-
-![Neha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neha18-dp&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neha18-dp&layout=compact&theme=default&hide_border=true)
-
----
-
 ## 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nehadpatil-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/nehadpatil)
@@ -97,4 +90,4 @@ Building a Linux server monitoring system with automated health checks, log aggr
 
 ---
 
-*Open to Cloud Support, Associate Cloud Engineer, Infrastructure, and DevOps roles in Mumbai / Thane / Navi Mumbai and Remote.*
+*Open to Cloud Support, Associate Cloud Engineer, Infrastructure and Enty-Level Cloud & DevOps roles in Mumbai / Thane / Navi Mumbai and Remote.*
